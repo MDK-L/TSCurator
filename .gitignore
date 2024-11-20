@@ -1,0 +1,8 @@
+test_results/
+checkpoints/
+data_curator/results/
+dataset/
+logs/
+plots/
+results/
+
