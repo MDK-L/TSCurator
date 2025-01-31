@@ -23,7 +23,9 @@ mkdir dataset
 **Please put them in the `./dataset` directory**
 
 ### Training Example
+```
 sh scripts/generate_indicator.sh
 sh scripts/ETTh2_ours.sh
+```
 
 Additionally, Timer and Moirai in the Appendix can be trained in the OpenLTM folder.
